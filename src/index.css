@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Mitr';
+    src: url(./assets/Mitr/Mitr-Medium.ttf);
+}
+*{
+    font-family: "Mitr", sans-serif;
+}
+.full-screen{
+    height: 100dvh;
+}
+.h-screen{
+    height: 40dvh;
+}
+.bg{
+    background-image: url("https://sompoy.ac.th/2019/wp-content/uploads/2020/01/IMG_6630-1024x768.jpg");
+    background-repeat: no-repeat;
+    background-position:  center;
+    height: 80dvh;
+}
+.bg1{
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBNcCiQnu1LimOhyxghhzZSO30cz-xKoc8cA0tlUjJZO9zcjLuahjx0KQ8imvHp0VhjbL9_g18NJiwbaYk3ZNZCwRNIpUEXgdMx03ahF03wSHjA=w1432-h784");
+    background-repeat: no-repeat;
+   
+}
+.bg2{
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBPCB_vMSNANS8_l_T9G2uPXj5J_dBcDSITQhg63x2wAbcu7z_5kSqvWlMc--Q9uo4AYOm-9vrtMBnwAu6ZQApD7zo5721Xc-eVUt_0pnvWUiaU=w1432-h784");
+    background-repeat: no-repeat;
+  
+}
+.bg3{
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBNcCiQnu1LimOhyxghhzZSO30cz-xKoc8cA0tlUjJZO9zcjLuahjx0KQ8imvHp0VhjbL9_g18NJiwbaYk3ZNZCwRNIpUEXgdMx03ahF03wSHjA=w1432-h784");
+    background-repeat: no-repeat;
+   
+}
+.bg4{
+    background-image: url("https://lh3.googleusercontent.com/drive-storage/AJQWtBNcCiQnu1LimOhyxghhzZSO30cz-xKoc8cA0tlUjJZO9zcjLuahjx0KQ8imvHp0VhjbL9_g18NJiwbaYk3ZNZCwRNIpUEXgdMx03ahF03wSHjA=w1432-h784");
+    background-repeat: no-repeat;
+}
